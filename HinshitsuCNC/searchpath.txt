@@ -1,0 +1,7 @@
+# Anything after # is a comment.
+# Write folder name one on each line
+# Use single '\' back slash. Do not escape.
+# Use trailing '\' back slash.
+# Maximum 254 character per row.
+# Maximum 31 lines in file.
+C:\Users\mithun\Desktop\
